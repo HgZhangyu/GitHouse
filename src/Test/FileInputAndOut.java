@@ -12,7 +12,7 @@ public class FileInputAndOut {
  *
  * @create: 2018-10-24 12:42
  **/
-//123456
+//修改之后的注释
 public static void main(String[] args) {
     FileReader fr = null;
     FileWriter fw = null;
